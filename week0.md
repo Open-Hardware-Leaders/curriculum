@@ -2,20 +2,20 @@
 
 ### **Week 0: Course Introduction**
 
-_Open source hardware is a heterogeneous group of practices, projects, artifacts, communities and lately a field of research, that can be found in a diversity of domains._
+_Open source hardware is a heterogeneous group of practices, projects, artifacts, communities and lately a field of research, that can be found in a diversity of domains._  
 
-_In this program we focus on applying open source hardware practices to projects. Each project and team probably has different goals, motivations and expertise. However, there is some common ground: your artifact must work for your users, it must be safe and it should allow people to contribute to its development. _
+_In this program we focus on applying open source hardware practices to projects. Each project and team probably has different goals, motivations and expertise. However, there is some common ground: your artifact must work for your users, it must be safe and it should allow people to contribute to its development._
 
 _This program has two parts:_
 
 
 
 *   **_First part focused on internal design and development, centered on the product and the core team,_**
-*   **_Second part focused on designing for successful contributions based on open source practices. _**
+*   **_Second part focused on designing for successful contributions based on open source practices._**
 
 _Both parts are addressed during the different weeks of the program, through specific goals, resources, tools and assignments that will help develop your project. Finally, you will apply what you learned in a real situation, or Sprint, in week 12._
 
-_The backbone of this program is the Open Source Hardware canvas. This is an adaptation of the already well known business canvas, with some characteristics that are constant no matter what particular piece of hardware is being developed in your project. This prototyping canvas can be used as the rubric, allowing projects to assess their own progress. _
+_The backbone of this program is the Open Source Hardware canvas. This is an adaptation of the already well known business canvas, with some characteristics that are constant no matter what particular piece of hardware is being developed in your project. This prototyping canvas can be used as the rubric, allowing projects to assess their own progress._
 
 **Tools we may mention/use along the program**
 
@@ -29,7 +29,7 @@ The first step or week 0 is to get familiar with the tools we will be using for 
 
 As we mentioned, we will be working with the open source canvas. Every week we are going to go into detail in one of the parts of the canvas, building up on each of them to start thinking about your project from the value/benefits it brings to you and the community, and moving forward into how to make it real.
 
-**Goal of the week: **get familiar with tools to use during the program and draft your first open canvas
+**Goal of the week:** get familiar with tools to use during the program and draft your first open canvas
 
 **Logistics tasks to complete**
 
