@@ -4,7 +4,7 @@
 
 _Take some time to breathe and debrief your Sprint participation with your mentor. How did you feel about contributions, engaging newcomers and your project overall? In the context of your whole program experience, would you do anything differently, do you have suggestions for us? Looking forward, which actions do you envision in the near future for your project? Can your mentor help you connecting to any particular communities?_
 
-**Goal of the week: **Reflect on your program experience and draft possible future actions.
+**Goal of the week:** Reflect on your program experience and draft possible future actions.
 
 **Assignments:**
 

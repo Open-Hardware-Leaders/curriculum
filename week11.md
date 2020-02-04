@@ -3,7 +3,7 @@
 
 _During this week you will work on your final preparations for incoming contributors during the Sprint. Clean everything up and give you repository the final welcoming touch._
 
-**Goal of the week: **prepare to meetup online potential contributors and facilitate onboarding, contributors. (Helping projects attract contributors)
+**Goal of the week:** prepare to meetup online potential contributors and facilitate onboarding, contributors. (Helping projects attract contributors)
 
 **Assignments:**
 

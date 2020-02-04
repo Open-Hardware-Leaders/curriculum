@@ -8,10 +8,6 @@ _E.g. if your project has already considerable user validation, and has a protot
 **Goal of the week:** Learn to design and frame experiments to validate key hypothesis in your project
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Open-Hardware0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/Open-Hardware0.png "image_tooltip")
 
 
@@ -28,8 +24,6 @@ _E.g. if your project has already considerable user validation, and has a protot
 **_Hint: The first basic validation should be researching on how other people address the problems you are trying to tackle. We don’t want to reinvent the wheel!_**
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Open-Hardware1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/Open-Hardware1.png "image_tooltip")
