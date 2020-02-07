@@ -6,36 +6,36 @@ Copy the weekly check list from the [issues](https://github.com/Open-Hardware-Le
 
 
 ## [Introduction](introduction.md)
-## [week0](week0.md)
+## [week0](week00.md)
  - [checklist assignments](https://github.com/Open-Hardware-Leaders/curriculum/issues/1)
  
 ---
 
-## [week1](week1.md)
+## [week1](week01.md)
 
 ---
-## [week2](week2.md)
+## [week2](week02.md)
 
 ---
-## [week3](week3.md)
+## [week3](week03.md)
 
 ---
-## [week4](week4.md)
+## [week4](week04.md)
 
 ---
-## [week5](week5.md)
+## [week5](week05.md)
 
 ---
-## [week6](week6.md)
+## [week6](week06.md)
 
 ---
-## [week7](week7.md)
+## [week7](week07.md)
 
 ---
-## [week8](week8.md)
+## [week8](week08.md)
 
 ---
-## [week9](week8.md)
+## [week9](week09.md)
 
 ---
 ## [week10](week10.md)
